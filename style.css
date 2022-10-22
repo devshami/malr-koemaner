@@ -1,0 +1,253 @@
+/* <!-- menu section start  --> */
+
+
+.header-img{
+    width: 80px;
+}
+
+
+/* <!-- menu section end  --> */
+
+/* slaider section start  */
+
+.slaider-section{
+   background-color: #f9f9ff;
+}
+
+.img-about{
+    position: relative;
+    top: 200px;
+}
+.img-about h5{
+  
+}
+.img-about h2{
+    padding: 10px 0;
+}
+.img-about p{
+    
+    font-size: 14px;
+}
+
+.img-about-button .btn{
+    padding: 4px 15px;
+}
+
+/* slaider section end */
+
+/* blog section start  */
+
+.blog-section{
+    padding: 45px 0;
+}
+
+.about-img1 img{
+    width: 500px;
+    /* padding: 50px 0; */
+    box-shadow: -50px -50px -120px -120px grey;
+    border: 1px solid #ddd;
+}
+
+.about-img{
+    position: relative;
+    top: 120px;
+}
+
+/* blog section end */
+
+/* success section start  */
+
+.success-settion{
+    background-color: #8490ff;
+    color: #fff;
+}
+
+.success-settion h2{
+   margin-top: 60px;
+   
+}
+.success-settion h6{
+    margin-bottom: 60px;
+}
+
+/* success section  end */
+
+/* tuday apps section start  */
+
+.apps-section{
+    background-color: #f9f9ff;
+    padding-bottom: 40px;
+}
+.apps-head{
+    text-align: center;
+    padding: 40px 0;
+}
+
+.apps-head h2{
+    font-weight: 400;
+
+}
+.apps-head p{
+    font-weight: 500;
+}
+
+.full-box{
+   background-color: #fff;
+   padding: 30px 0;
+}
+
+.one{
+     width: 80px;
+     height: 80px;
+     background-color: #ddd;
+     margin: auto;
+  border-radius: 50%;
+  
+}
+.one h2{
+    text-align: center;
+    line-height: 80px;
+   
+}
+
+.content-div{
+    text-align: center;
+}
+
+.content-div h5{
+    font-size: 15px;
+    padding: 6px 0;
+}
+.content-div h6{
+    font-size: 13px;
+}
+.content-div p{
+         margin-top: 0;
+        margin-bottom: 9px;
+        font-size: 15px;
+        font-weight: 200;
+        padding: 8px 0;
+    }
+
+    .content-div a{
+        text-decoration: none;
+        color: #000;
+        border: 1px solid #8490ff;
+        display: block;
+        padding: 7px 15px;
+        width: 100px;
+        margin: auto;
+        color: #4353e9e1;
+        box-shadow: 20px 20px 35px -12px gray;
+        border-radius: 3px;
+    }
+
+/* tuday apps section end */
+
+/* .service section start  */
+
+.service-section{
+    padding: 50px 0;
+    background-color: #fff;
+}
+
+.img-div img{
+    width: 80px;
+    margin-left: 15px;
+    position: relative;
+    top: 30px;
+}
+
+.service-content{
+    background-color: #fff;
+    text-align: center;
+    padding: 50px 0;
+    box-shadow: 15px 15px 20px -15px grey;
+}
+
+.service-content h4{
+    font-size: 22PX;
+    font-weight: 500;
+}
+.service-content h6{}
+.service-content p{
+    font-size: 14px;
+}
+
+button.btn.btn-light {
+    box-shadow: 20px 20px 20px -16px grey;
+}
+
+/* .service section end */
+
+/* contact section start  */
+
+.contact-section{
+    background-color: #efeff8;
+    padding: 50px 0;
+}
+
+.contact-form{
+    background-color: #fff;
+    padding: 40px 50px;
+  
+}
+
+.contact-header{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.contact-header p{
+    font-weight: 450;
+}
+.contact-header h2{
+    font-weight: 490;
+}
+
+
+
+.button{
+    text-align: center;
+    padding: 15px 0;
+   
+}
+
+.button .btn{
+    background-color: #17a2b8;
+}
+
+
+.contact-number{
+    margin-left: 70px;
+    margin-top: 70px;
+}
+
+.contact-number h4{
+    padding: 10px 0;
+    
+}
+
+.contact-form h4{
+    padding: 20px 0;
+}
+
+/* contact section end */
+
+/* footer ection start  */
+
+.footer{
+    background-color: #04091e;
+}
+
+.footer p{
+    padding: 30px 0;
+    color: #fff;
+    text-align: center;
+}
+
+/* footer ection end */
+
+
+
+
